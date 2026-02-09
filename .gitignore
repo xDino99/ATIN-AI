@@ -1,0 +1,13 @@
+*.tmp
+*.temp
+*.rar
+*.zip
+*.7z
+*.spec
+*.pyw
+*.exe
+*.msi
+*.dll
+*.bak
+/build/
+/dist/

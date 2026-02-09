@@ -1,0 +1,1 @@
+pyinstaller --onefile main.py --name="ATIN AI" --clean
