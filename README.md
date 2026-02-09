@@ -69,7 +69,7 @@ Usa estos comandos dentro de la terminal de ATIN AI para gestionar su funcionami
 
 ## 👤 Autor
 
-### Desarrollado por xDino99.
+### Desarrollado por xDino99
 
 ## 📄 Licencia
 
